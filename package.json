@@ -1,0 +1,21 @@
+{
+  "name": "koa_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cors": "0.0.16",
+    "koa-route": "^3.2.0",
+    "koa-router": "^10.0.0",
+    "koa2-response": "^2.0.2",
+    "nanoid": "^3.1.20"
+  }
+}
